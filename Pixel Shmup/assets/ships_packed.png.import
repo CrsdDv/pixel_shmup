@@ -1,0 +1,26 @@
+[remap]
+
+importer="2d_array_texture"
+type="CompressedTexture2DArray"
+uid="uid://des1oaovcest"
+path="res://.godot/imported/ships_packed.png-835d534c9e32f307444414a7c6b4843c.ctexarray"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://assets/ships_packed.png"
+dest_files=["res://.godot/imported/ships_packed.png-835d534c9e32f307444414a7c6b4843c.ctexarray"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+slices/horizontal=4
+slices/vertical=6
